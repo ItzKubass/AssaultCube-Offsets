@@ -11,7 +11,7 @@
 - **Head Position Y**           `[0xC]`
 - **Head Position Z**           `[0x8]`
 
-- ### Player Position
+### Player Position
 - **Position X**                `[0x2C]`
 - **Position Y**                `[0x30]`
 - **Position Z**                `[0x28]`
@@ -25,7 +25,7 @@
 - **Fast fire Sniper**          `[0x160]`
 - **Fast fire Shotgun**         `[0x158]`
 
-- ### Ammo
+### Ammo
 - **Assault Rifle Ammo**        `[0x140]`
 - **Submachine Gun Ammo**       `[0x138]`
 - **Sniper Ammo**               `[0x13C]`
