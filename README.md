@@ -32,6 +32,7 @@
 - **Shotgun**                   `[0x134]`
 - **Pistol Ammo**               `[0x12C]`
 - **Grenade Ammo**              `[0x144]`
+- **TMP-M&A Carbine**           `[0x130]`
 
 ### Other
 - **Auto shoot**                `[0x204]`
